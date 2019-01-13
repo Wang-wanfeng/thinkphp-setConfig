@@ -33,3 +33,5 @@ config_name---配置参数名
 error_code---状态码
 msg---说明
 ```
+#### 1.配置修改成功后将会覆盖掉原有的config.php文件；
+#### 2.新的config.php文件没有配置参数注释；
